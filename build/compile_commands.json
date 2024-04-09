@@ -1,0 +1,62 @@
+[
+{
+  "directory": "F:/LaptrinhC/De1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\main.cpp.obj -c F:\\LaptrinhC\\De1\\main.cpp",
+  "file": "F:/LaptrinhC/De1/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "F:/LaptrinhC/De1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\function\\function.cpp.obj -c F:\\LaptrinhC\\De1\\function\\function.cpp",
+  "file": "F:/LaptrinhC/De1/function/function.cpp",
+  "output": "CMakeFiles/main.dir/function/function.cpp.obj"
+},
+{
+  "directory": "F:/LaptrinhC/De1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\function\\CRUDfunction.cpp.obj -c F:\\LaptrinhC\\De1\\function\\CRUDfunction.cpp",
+  "file": "F:/LaptrinhC/De1/function/CRUDfunction.cpp",
+  "output": "CMakeFiles/main.dir/function/CRUDfunction.cpp.obj"
+},
+{
+  "directory": "F:/LaptrinhC/De1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\SanPham.cpp.obj -c F:\\LaptrinhC\\De1\\SanPham.cpp",
+  "file": "F:/LaptrinhC/De1/SanPham.cpp",
+  "output": "CMakeFiles/main.dir/SanPham.cpp.obj"
+},
+{
+  "directory": "F:/LaptrinhC/De1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\HoaDon.cpp.obj -c F:\\LaptrinhC\\De1\\HoaDon.cpp",
+  "file": "F:/LaptrinhC/De1/HoaDon.cpp",
+  "output": "CMakeFiles/main.dir/HoaDon.cpp.obj"
+},
+{
+  "directory": "F:/LaptrinhC/De1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\ChiTietHD.cpp.obj -c F:\\LaptrinhC\\De1\\ChiTietHD.cpp",
+  "file": "F:/LaptrinhC/De1/ChiTietHD.cpp",
+  "output": "CMakeFiles/main.dir/ChiTietHD.cpp.obj"
+},
+{
+  "directory": "F:/LaptrinhC/De1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\BackUp.cpp.obj -c F:\\LaptrinhC\\De1\\BackUp.cpp",
+  "file": "F:/LaptrinhC/De1/BackUp.cpp",
+  "output": "CMakeFiles/main.dir/BackUp.cpp.obj"
+},
+{
+  "directory": "F:/LaptrinhC/De1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\RecoveryData.cpp.obj -c F:\\LaptrinhC\\De1\\RecoveryData.cpp",
+  "file": "F:/LaptrinhC/De1/RecoveryData.cpp",
+  "output": "CMakeFiles/main.dir/RecoveryData.cpp.obj"
+},
+{
+  "directory": "F:/LaptrinhC/De1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\function\\BackUpMenu.cpp.obj -c F:\\LaptrinhC\\De1\\function\\BackUpMenu.cpp",
+  "file": "F:/LaptrinhC/De1/function/BackUpMenu.cpp",
+  "output": "CMakeFiles/main.dir/function/BackUpMenu.cpp.obj"
+},
+{
+  "directory": "F:/LaptrinhC/De1/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\KhachHang.cpp.obj -c F:\\LaptrinhC\\De1\\KhachHang.cpp",
+  "file": "F:/LaptrinhC/De1/KhachHang.cpp",
+  "output": "CMakeFiles/main.dir/KhachHang.cpp.obj"
+}
+]
